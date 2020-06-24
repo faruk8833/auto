@@ -1,0 +1,34 @@
+p{
+    font-family: arial;
+    font-size: 20px;
+}
+.auto{
+    width: 800px;
+    height: 80px;
+    border: 15px solid tomato;
+    background-image: url(https://rubaihossain.github.io/CSS-4.2/images/photo.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: 50px;
+}
+.contain{
+    width: 800px;
+    height: 80px;
+    border: 15px solid tomato;
+    background-image: url(https://rubaihossain.github.io/CSS-4.2/images/photo.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: 50px;
+}
+.cover{
+    width: 800px;
+    height: 80px;
+    border: 15px solid tomato;
+    background-image: url(https://rubaihossain.github.io/CSS-4.2/images/photo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: 50px;
+}
